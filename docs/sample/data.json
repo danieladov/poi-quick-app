@@ -23,16 +23,16 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "fauce1",
+                    "lat": "43.361294",
+                    "lon": "-5.850821",
+                    "type": "fauce",
+                    "name": "Fuente parque San Francisco",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Fuente pública ubicada en el centro del parque San Francisco",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
