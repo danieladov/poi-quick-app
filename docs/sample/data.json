@@ -1,7 +1,7 @@
 {
     "meta": {
-        "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_id": "es.uniovi.uo26895",
+        "app_title": "Servicios básicos Oviedo",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -12,8 +12,8 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
-                    "complementary": "#FAFAFA"
+                    "brand": "#0054d6",
+                    "complementary": "#585e71"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
