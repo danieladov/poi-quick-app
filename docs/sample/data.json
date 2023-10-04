@@ -43,6 +43,17 @@
                         "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/noticias/201703/08/media/cortadas/papel-kCyG--660x371@El%20Comercio.jpg"
                     ],
                     "description": "Bañó público gratuito ubicado al inicio del Paseo de los Álamos"
+                },
+                {
+                    "id": "toilet2",
+                    "lat": " 43.3529702 ",
+                    "lon": " -5.8489569",
+                    "type": "toilet",
+                    "name": "Baño público gratuito en Parque de invierno",
+                    "images": [
+                        "https://img2.rtve.es/i/?w=1600&i=1225820009910.jpg"
+                    ],
+                    "description": "Bañó público gratuito ubicado ubicados en la pista de baloncesto del parque de invierno"
                 }
             ]
         }
