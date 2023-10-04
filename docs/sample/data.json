@@ -26,35 +26,24 @@
                     "id": "fauce1",
                     "lat": "43.361294",
                     "lon": "-5.850821",
-                    "type": "fauce",
+                    "type": "faucet",
                     "name": "Fuente parque San Francisco",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
                     ],
-                    "description": "Fuente pública ubicada en el centro del parque San Francisco",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
+                    "description": "Fuente pública ubicada en el centro del parque San Francisco"
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "toilet1",
+                    "lat": " 43.3623231 ",
+                    "lon": "-5.8491555",
+                    "type": "toilet",
+                    "name": "Baño público gratuito en Paseo de los álamos",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/noticias/201703/08/media/cortadas/papel-kCyG--660x371@El%20Comercio.jpg",
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "description": "Bañó público gratuito ubicado al inicio del Paseo de los Álamos"
                 }
             ]
         }
